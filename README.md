@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frp9
 - 👀 I’m interested in Web develpoment and OOP
-- 🌱 I’m currently learning SQL, C++, HTML, JavaScript
+- 🌱 I’m currently learning SQL, C++, HTML, JavaScript from College
 - 💞️ I’m looking to collaborate on Web applications
 - 📫 Reach me via fevinpatel2232@outlook.com

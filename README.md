@@ -9,7 +9,7 @@ I am a learning developer, always ready to acquire new skills on IT sector and r
 *   🌍  I'm based in Canada
 *   ✉️  You can contact me at [fevinpatel2232@outlook.com](mailto:fevinpatel2232@outlook.com)
 *   🧠  I'm learning AngularJS
-*   🤝  I'm open to collaborating on Web applications
+*   🤝  I'm open to collaborate on Web applications developments
 *   ⚡  I learn, predict and think before I code
 
 ### Skills
